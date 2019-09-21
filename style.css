@@ -1,0 +1,90 @@
+html{
+    background-color: rgb(245, 238, 238);
+}
+
+body{
+    right: 10px; 
+    top: 0.5%; 
+    padding: 10px;  
+    padding-left: 20px;
+    line-height: 40px;
+    border: solid 10px darkgrey;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1024px;
+}
+
+.b1{
+    
+    margin: 1px 3px;
+    width: 140px;
+    height: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    background-color: rgb(163, 159, 159);
+    border: solid 3px rgb(126, 123, 123);
+    border-radius: 10px;
+    text-decoration: none;
+    
+}
+
+.button{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    
+ 
+}
+
+h1{
+  
+    padding: 50px;
+}
+
+
+img{
+    width: 300px;
+    border: solid 3px  rgb(126, 123, 123);
+    border-radius: 300px;
+}
+
+.heading{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+p{
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+ul{
+    padding: 10px;
+}
+
+a{
+    color: rgb(61, 60, 60); 
+    text-decoration: none; 
+}
+
+.topbutton {
+    position:fixed;
+    right: 200px; 
+    padding:10px;
+    bottom:50px;
+    width:15px;
+    height: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:25px;
+    border: solid 1px rgb(170, 166, 166);
+    border-radius: 10px;
+    background:rgb(229, 226, 226);
+    cursor:pointer;
+    color:#333;
+    }
+
+    #footer{
+         font-size: 10px;
+        color: darkgrey;
+    }
+  
