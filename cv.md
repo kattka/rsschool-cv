@@ -21,3 +21,9 @@ Extremely motivated for career change goal. Short term aim - become a Junior Dev
 
 *Skills*
 HTML5, CSS3, basic knowledge of JavaScript, macOS.
+*Code examples*
+I am working on it.
+
+*Experience*
+* [codecademy](//www.codecademy.com/profiles/ajax1699832106): projects;
+* [mimo](//getmimo.com): projects.
